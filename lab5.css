@@ -1,0 +1,94 @@
+body
+{
+ margin: 200px 350px;  
+}
+.container
+{
+    border: 15px solid black;
+    width:590px;
+    height:350px;
+    background-color: gray;
+    padding:40px;
+}
+#register
+{
+    background-color:white;
+    border: none;
+    color: black;
+    padding: 10px 20px;
+    text-align: center;
+    
+    font-size: 16px;
+    
+}
+label
+{
+    padding: 10px;
+    display: inline-block;
+    width: 150px;  
+}
+
+.align
+{
+    padding: 10px;
+    width:250px;
+    height:25px;
+}
+
+select{
+    width:245px;
+    height: 25px;
+}
+
+#password
+{
+   padding:0px 0px;
+} 
+}
+#mail
+{
+    padding:0px 0px;
+    margin: 0px 0px;
+}
+
+#e1
+{
+    padding-top: 10px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    color: white;
+}
+#e2
+{
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    color: white;
+}
+#e3
+{
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    color: white;
+}
+#e4
+{
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    color: white;
+}
+input:valid {
+  background-color:greenyellow;
+}
+#strong
+{
+        position: absolute;
+        top:290px;
+        right:530px;
+}
